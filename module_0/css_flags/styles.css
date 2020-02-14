@@ -1,0 +1,375 @@
+    * {
+        background-color: cadetblue;
+    }
+    .france{
+        position: relative;
+        display: inline-block;
+        height: 600px;
+        width: 900px;
+
+    }
+    h2 {
+        color: darkblue;
+    }
+    .blue1{
+        
+        height: 100%;
+        width: 33.33%;
+        background-color: blue;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .red1{
+        
+        height: 100%;
+        width: 33.33%;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    .white{
+        height: 100%;
+        width: 33.33%;
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: 33.33%;
+    }
+
+    .black1{
+        display: block;
+        height: 200px;
+        width: 1000px;
+        background-color: black;
+    }
+
+    .red2{
+        display: block;
+        height: 200px;
+        width: 1000px;
+        background-color: red;
+    }
+    .gold1{
+        display: block;
+        height: 200px;
+        width: 1000px;
+        background-color: gold;
+    }
+
+    .madagascar{
+        position: relative;
+        display: block;
+        height: 600px;
+        width: 900px;
+    }
+
+    .white2{
+        
+        height: 100%;
+        width: 25%;
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .red3{
+        
+        height: 50%;
+        width: 75%;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        left: 25%;
+    }
+    .green1{
+        
+        height: 50%;
+        width: 75%;
+        background-color: green;
+        position: absolute;
+        top: 50%;
+        left: 25%;
+    }
+   
+    .switzerland{
+        position: relative;
+        display: block;
+        height: 600px;
+        width: 600px;
+    }
+    .redbox1{
+        height: 100%;
+        width: 100%;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .whitecrosshoriz{
+        height: 20%;
+        width: 60%;
+        background-color: white;
+        position: absolute;
+        top: 40%;
+        left: 20%;
+    }
+    .whitecrossvert{
+        height: 60%;
+        width: 20%;
+        background-color: white;
+        position: absolute;
+        top: 20%;
+        left: 40%;
+    }
+    .sweden{
+        position: relative;
+        display: block;
+        height: 500px;
+        width: 800px;
+    }
+    .midnightbluebox{
+        height: 100%;
+        width: 100%;
+        background-color: #004B87;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .goldstriphoriz{
+        height: 20%;
+        width: 100%;
+        background-color: #FFCD00;
+        position: absolute;
+        top: 40%;
+        left: 0;
+
+    }
+    .goldstripvert{
+        height: 100%;
+        width: 12%;
+        background-color: #FFCD00;
+        position: absolute;
+        top: 0;
+        left: 27%;
+    }
+    .gambia{
+        position: relative;
+        display: block;
+        height: 600px;
+        width: 900px;
+        background-color: white;
+    }
+    .redstriphoriz{
+        height: 30%;
+        width: 100%;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .bluestriphoriz{
+        height: 25%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top: 38%;
+        left: 0;
+    }
+    .greenstriphoriz{
+        height: 30%;
+        width: 100%;
+        background-color: green;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    .tonga{
+        position: relative;
+        display: block;
+        height: 400px;
+        width: 800px;
+        background-color: red;
+    }
+    .whitebox{
+        height: 50%;
+        width: 40%;
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: 0;
+
+    }
+    .redstriphoriz2{
+        height: 30%;
+        width: 50%;
+        background-color: red;
+        position: absolute;
+        top:34%;
+        left: 25%;
+    }
+    .redstripvert2{
+        height: 80%;
+        width: 19%;
+        background-color: red;
+        position: absolute;
+        top: 9%;
+        left: 40%;
+    }
+    .japan{
+        position: relative;
+        display: block;
+        height: 400px;
+        width: 600px;
+        background-color: white;
+    }
+    .dot{
+        height: 300px;
+        width: 300px;
+        background-color: red;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        top: 10%;
+        left: 25%;
+    }
+    .greece{
+        position: relative;
+        display: block;
+        height: 400px;
+        width: 600px;
+        background-color: white;
+    }
+    .greecebluestripe1{
+        height: 11.111%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top:0%;
+        left: 0%;
+    }
+    .greecebluestripe2{
+        height: 11.111%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top:22.222%;
+        left: 0%;
+    }
+    .greecebluestripe3{
+        height: 11.111%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top:44.444%;
+        left: 0%;
+    }
+    .greecebluestripe4{
+        height: 11.111%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top:66.666%;
+        left: 0%;
+    }
+    .greecebluestripe5{
+        height: 11.111%;
+        width: 100%;
+        background-color: blue;
+        position: absolute;
+        top:88.888%;
+        left: 0%;
+    }
+    .greecebluebox{
+        height: 55.555%;
+        width: 35%;
+        background-color: blue;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .greecewhitestripehoriz{
+        height: 20%;
+        width: 100%;
+        background-color: white;
+        position: absolute;
+        top: 40%;
+        left: 0;
+    }
+    .greecewhitestripevert{
+        height: 100%;
+        width: 24%;
+        background-color: white;
+        position: absolute;
+        top: 0;
+        left: 37%;
+    }
+    .niger{
+        position: relative;
+        display: block;
+        height: 600px;
+        width: 700px;
+        background-color: white;
+    }
+    .redstriphorizniger{
+        height: 35%;
+        width: 100%;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .greenstriphorizniger{
+        height: 35%;
+        width: 100%;
+        background-color: green;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+    .dotniger{
+        height: 160px;
+        width: 160px;
+        background-color: red;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        top: 36.5%;
+        left: 38%;
+    }
+    .maldives{
+        position: relative;
+        display: block;
+        height: 400px;
+        width: 600px;
+        background-color: red;
+    }
+    .greensquare{
+        height: 200px;
+        width: 400px;
+        background-color: green;
+        position: absolute;
+        top: 25%;
+        left: 16.6%;
+    }
+    .greencircle{
+        height: 100px;
+        width: 100px;
+        background-color: green;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        top: 25%;
+        left: 47%;
+    }
+    .whitecircle{
+        height: 100px;
+        width: 100px;
+        background-color: white;
+        border-radius: 50%;
+        display: inline-block;
+        position: absolute;
+        top: 25%;
+        left: 42%;
+    }

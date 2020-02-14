@@ -1,0 +1,69 @@
+  
+  
+
+  body {
+    font-family: Arial;
+    padding: 20px;
+    background: gray;
+  }
+  .header{
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
+  }
+
+  .about{
+    background-color: white;
+    padding: 30px;
+  }
+
+  .blogcard{
+    background-color: white;
+    padding: 30px;
+  }
+
+  .blognav{
+    background-color: #333;
+    font-size: 30px;
+    height: 46px;
+    position: fixed;
+    margin-top: none;
+    margin-left: none;
+    width: 100%;
+  }
+
+  .blognav a{
+    float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 15px;
+  text-decoration: none;
+  font-size: 15px;
+  }
+
+  .blognav a:hover {
+    background: goldenrod;
+    color: black;
+    font-size: 20px;
+  }
+
+  .leftcolumn{
+    height: 500px;
+    padding-top: 25px;
+    width: 75%;
+    float: left;
+  }
+
+  .rightcolumn{
+    padding-top: 25px;
+    width: 25%;
+    float: left;
+  }
+
+  .image{
+    height: 600px;
+    width: 100%;
+    float: left;
+  }

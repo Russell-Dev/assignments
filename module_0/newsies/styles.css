@@ -1,0 +1,77 @@
+/*            * {
+    text-align: center;
+}
+
+ This makes all styling reflect what is in the above brackets */
+
+hr.new1 {
+    border: 8px solid black;
+    border-radius: 4px;
+}
+hr.new2 {
+    border: 8px solid gray;
+    border-radius: 4px;
+}
+h1 {
+    font-size: 180px;
+    line-height: .001;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+.bold1 {
+    display: inline;
+    font-size: 65px;
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.bold2 {
+    background-color: gray;
+    font-size: 30px;
+    color: white;
+    display: block;
+    position: relative;
+    left: 2px;
+}
+.issue1 {
+    font-size: 30px;
+    color: black;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    line-height: 1.2;
+}
+.issue2 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    left: 500px;
+    line-height: 1.2;
+}
+.issue3 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    Left: 580px;
+    line-height: 1.2;
+}
+.date1 {
+    color: black;
+    position: relative;
+    left: 1260px;
+}
+.edition1{
+    color: black;
+    position: relative;
+    left: 15px;
+}
+.box{
+    display: inline-block;
+    width: 500px;
+    padding: 20px;
+}

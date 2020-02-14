@@ -1,0 +1,19 @@
+body {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2018_Jaguar_I-Pace_EV400_AWD_Front.jpg/2880px-2018_Jaguar_I-Pace_EV400_AWD_Front.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 75vw;
+}
+h1{
+  color: rgb(0, 243, 41, .7);
+  text-align: center;
+}
+h3{
+  color: rgb(214, 213, 213);
+  text-align: center;
+  transform: translateY(20px);
+}
+div{
+  color: aqua;
+}
